@@ -1,5 +1,7 @@
 #Setting up a minimal tree for building TWRP
 ##Android 4.4 branch
+
+[![Join the chat at https://gitter.im/marduk191/recovery_manifest](https://badges.gitter.im/marduk191/recovery_manifest.svg)](https://gitter.im/marduk191/recovery_manifest?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This repo is ~2.6GB
 ###To initialize the main repository:
 
